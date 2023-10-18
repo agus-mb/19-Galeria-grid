@@ -1,0 +1,1 @@
+- .galery-item*9>img.galery-img[src="img/galery$.jpg"]+h2.galery-tittle{imagen $} ABREVIACION EMMET DE LA  ESTRUCTURA HTML.
